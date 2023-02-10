@@ -13,7 +13,7 @@ new summary functions"
 notebook1.ipynb (py) and notebook2.ipynb (R)
 
 ----------------0------------------
-####	USC-SIPI experiment   #####
+####	FMD experiment   #####
 ----------------0------------------
 
 1) Run Script0.py
